@@ -17,25 +17,13 @@ Users can browse news by category, read full articles, and save articles for lat
 ---
 ## 📱 App UI Preview
 
-### 🏠 Home Screen
-<img src="assets/home.png" width="300"/>
+<p float="left">
+  <img src="assets/home.png" width="180" />
+  <img src="assets/category.png" width="180" />
+  <img src="assets/detail_page.png" width="180" />
+  <img src="assets/saved_news.png" width="180" />
+</p>
 
----
-
-### 📂 Category Screen
-<img src="assets/category.png" width="300"/>
-
----
-
-### 📰 Article Detail Screen
-<img src="assets/detail_page.png" width="300"/>
-
----
-
-### ⭐ Saved News Screen
-<img src="assets/saved_news.png" width="300"/>
-
----
 
 ## 🛠 Tech Stack
 
